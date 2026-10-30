@@ -1,0 +1,65 @@
+{
+  "originalSha256": "33d38ae56e6b9ace0c629e5bfc1287f4d3c33eb2ccf588fe40aef99c69184f7b",
+  "sha256": "a5f4211151da1ab99a431d23ca4477329b8c923ed7d083aa431c586e64ae640f",
+  "bytes": 7871026,
+  "compression": "Deflate",
+  "explicitPayloadDirectory": true,
+  "nativeGlass": true,
+  "appBytesUnchanged": true,
+  "files": [
+    {
+      "path": "Payload/Trove.app/AppIcon60x60@2x.png",
+      "bytes": 6754,
+      "sha256": "9d9fe6c4b0211e55a2641c0e6244412eeaedacb99dbb9ffe4835d7633c04c190",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/AppIcon76x76@2x~ipad.png",
+      "bytes": 8535,
+      "sha256": "61f465729d073b888afdf6417d4fa6275c0a348f8c3711819de7bdca0840e10b",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/Assets.car",
+      "bytes": 257080,
+      "sha256": "dae7b9fba3fc1422cf5ba6e9a875d4f3c7bb9d33c8de5332689fe36b7d16d00f",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/Info.plist",
+      "bytes": 1299,
+      "sha256": "d0060370047ebbdc660ea61948d35f3a6893ec903e961ff24fc688093c59b2c1",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/LaunchScreen.storyboardc/Info.plist",
+      "bytes": 258,
+      "sha256": "4f8503b465178448f39d1fa679cfebe28005ece6876edd41a05db5bd6b7c6141",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/LaunchScreen.storyboardc/UIViewController-Y6W-OH-hqX.nib",
+      "bytes": 924,
+      "sha256": "1d3b9ef8a36248c2d8b18b08126447019b5604897562297c11c28e8002b15839",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/LaunchScreen.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib",
+      "bytes": 1225,
+      "sha256": "107980c54274d72fb604e1e82ef4f0820de45b9dd36cd5899c20f972f8ceb582",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/PkgInfo",
+      "bytes": 8,
+      "sha256": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+      "unchanged": true
+    },
+    {
+      "path": "Payload/Trove.app/Trove",
+      "bytes": 15726648,
+      "sha256": "c0de05a8a3c0ab3460b1f68f19d125873981af2bc5bcab99c2dba09aa05cc065",
+      "unchanged": true
+    }
+  ]
+}
